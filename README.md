@@ -7,6 +7,9 @@
 
 <p>
 CYBER SECURITY
+Python
+C
+
 </p>
 
 ###
