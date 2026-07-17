@@ -2,3 +2,13 @@
 
 ## About me
 - Currently a First Year in IT KMITL [IT24]
+
+## Learning
+
+<p>
+CYBER SECURITY
+</p>
+
+###
+
+> **Goal: The Greatest Cyber Security**
