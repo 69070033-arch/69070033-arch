@@ -9,7 +9,10 @@
 CYBER SECURITY
 Python
 C
-
+PHP
+HTML
+CSS
+JS
 </p>
 
 ###
